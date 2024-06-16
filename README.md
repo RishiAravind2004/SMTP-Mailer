@@ -60,3 +60,8 @@ Content = "This is a test email sent from Python."
 ```
 
 And Finally run your code the email has been sent to Recipient Emails through the code!
+
+After Execution
+
+![alt text](image-4.png)
+![alt text](image-5.png)
