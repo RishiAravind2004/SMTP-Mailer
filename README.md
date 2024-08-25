@@ -1,4 +1,4 @@
-# SMPT-Mailer
+# SMTP-Mailer
 An way to send automated mail to person using python language!
 
 
